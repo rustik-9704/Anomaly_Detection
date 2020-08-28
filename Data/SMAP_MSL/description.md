@@ -14,3 +14,7 @@ The anomalies are classified into 2 categories: point anomalies (identified by p
  |Point anomalies (% tot.)|43 (62%)|19 (53%)|62 (59%)|
  |Contextual anomalies (% tot.)|26 (38%)|17 (47%)|43 (41%)|
  
+References:
+1) https://arxiv.org/pdf/1802.04431.pdf
+2) Machine Learning for Time Series Anomaly Detection by Ihssan Tinawi
+3) https://github.com/khundman/telemanom 
