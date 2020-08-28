@@ -3,7 +3,9 @@ The telemetry data in time series format comes from the two spacecrafts: the Soi
 The telemetry signals are divided into several channels. The name of the folders represent the channel category and the signal number: P stands for Power, R - Radiation, etc. So the signals of the same category are related. 
 
 SMAP provides us with 55 signals and MSL with 27, where 54 of these signals are continuous and the rest is discrete. 
+
+The anomalies are classified into 2 categories: point (identified by properly-set alarms or distance-based methods that ignore temporal information) and contextual (detected by more complex methodologies such as LSTMs or Hierarchical Temporal Memory )
  
- |Anomalies|Normal|
- |---------|------|
+ |-------|SMAP|MSL|
+ |Total anomaly sequences|69|36|
  
