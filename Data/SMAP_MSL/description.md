@@ -123,11 +123,19 @@ Channel category P
 |Anomaly type|point|point, point|point|point|
 |No of val|6100|3535|6100|2856|
 
-P-10, P-11, P-14, P-15
+Channel category S
+|   |S-2|
+|---|---|
+|Anomaly sequences|[900, 910]|
+|Anomaly type|point|
+|No of val|1827|
 
-S-2
-
-T-4, T-5, T-8, T-9, T-12, T-13
+Channel category P
+|   |T-4|T-5|T-8|T-9|T-12|T-13|
+|---|---|---|---|---|----|----|
+|Anomaly sequences|[1172, 1240]|[1200, 1225]|[870, 930], [1330, 1370]|[780, 810], [890, 970]|[630, 750]|[690, 790], [1900, 2050]|
+|Anomaly type|point|point|contextual, contextual|point, point|contextual|contextual, contextual|
+|No of val|2217|2218|1519|1096|2430|2430|
  
 References:
 1) https://arxiv.org/pdf/1802.04431.pdf
