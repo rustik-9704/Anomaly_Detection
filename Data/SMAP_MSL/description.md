@@ -19,10 +19,11 @@ Channel category A
 |---|---|---|---|---|---|---|---|---|---|
 |Anomaly sequences|[4690, 4774]|[4450, 4560]|[4575, 4760]|[4550, 4660]|[2750, 2800]|[1890, 1930]|[6200, 8600]|[4569, 8374]|[4569, 8433]|
 |Anomaly type|point|contextual|contextual|contextual|point|point|contextual|contextual|contextual|
-
-A-1, A-2, A-3, A-4, A-5, A-6, A-7, A-8, A-9
-
-B-1
+Channel category B
+|   |B-1|
+|---|---|
+|Anomaly sequences|[5060, 5130]|
+|Anomaly type|point|
 
 D-1, D-2, D-3, D-4, D-5, D-6, D-7, D-8, D-9, D-11, D-12, D-13
 
