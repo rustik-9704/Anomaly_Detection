@@ -8,5 +8,6 @@ The anomalies are classified into 2 categories: point (identified by properly-se
  
  ||SMAP|MSL|
  |-----------------------|----|---|
- |Total anomaly sequences| 69 |36 |
+ |Total anomaly sequences|69|36|
+ |Point anomalies (% tot.)|43 (62%)|19 (53%)|
  
