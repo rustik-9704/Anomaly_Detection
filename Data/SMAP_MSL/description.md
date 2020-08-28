@@ -7,7 +7,7 @@ SMAP provides us with 55 signals and MSL with 27, where 54 of these signals are 
 The anomalies are classified into 2 categories: point (identified by properly-set alarms or distance-based methods that ignore temporal information) and contextual (detected by more complex methodologies such as LSTMs or Hierarchical Temporal Memory )
  
  ||SMAP|MSL|Total|
- |-----------------------|----|---||
+ |-----------------------|----|---|-----|
  |Total anomaly sequences|69|36|105|
  |Point anomalies (% tot.)|43 (62%)|19 (53%)|62 (59%)|
  |Contextual anomalies (% tot.)|26 (38%)|17 (47%)|43 (41%)|
