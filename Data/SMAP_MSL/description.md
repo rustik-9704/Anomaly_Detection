@@ -4,7 +4,9 @@ The telemetry signals are divided into several channels. The name of the folders
 
 SMAP provides us with 55 signals and MSL with 27, where 54 of these signals are continuous and the rest is discrete. 
 
-The anomalies are classified into 2 categories: point anomalies (identified by properly-set alarms or distance-based methods that ignore temporal information) and contextual anomalies (detected by more complex methodologies such as LSTMs or Hierarchical Temporal Memory )
+The anomalies are classified into 2 categories: point anomalies (identified by properly-set alarms or distance-based methods that ignore temporal information) and contextual anomalies (detected by more complex methodologies such as LSTMs or Hierarchical Temporal Memory). The anomalous regions were manually extracted so we have regions of normal and anomalues data separately for each signal.
+
+
  
  ||SMAP|MSL|Total|
  |-----------------------|----|---|-----|
