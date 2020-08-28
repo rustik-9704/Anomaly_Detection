@@ -116,6 +116,12 @@ Channel category M
 |Anomaly type|contextual|contextual|contextual|contextual|contextual|point|point|
 |No of val|2277|2277|2127|2038|2303|2049|2156|
 
+Channel category P
+|   |P-10|P-11|P-14|P-15|
+|---|----|----|----|----|
+|Anomaly sequences|[4590, 4720]|[1778, 1898], [1238, 1344]|[4575, 4755]|[1390, 1410]|
+|Anomaly type|point|point, point|point|point|
+|No of val|6100|3535|6100|2856|
 
 P-10, P-11, P-14, P-15
 
