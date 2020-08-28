@@ -29,7 +29,8 @@ Channel category B
 Channel category D
 |   |D-1|D-2|D-3|D-4|D-5|D-6|D-7|D-8|D-9|D-11|D-12|D-13|
 |---|---|---|---|---|---|---|---|---|---|----|----|----|
-
+|Anomaly sequences|[5250, 8508]|[4319, 8536]|[5225, 8500]|[5225, 8472]|[4800, 4850]|[4870, 4950]|[4940, 7641]|[4370, 4420]|[6250, 7405]|[4270, 4330]|[5178, 7917]|[5070, 5230]|
+|Anomaly type|point|point|point|point|point|point|point|point|point|point|point|point|
 D-1, D-2, D-3, D-4, D-5, D-6, D-7, D-8, D-9, D-11, D-12, D-13
 
 E-1, E-2, E-3, E-4, E-5, E-6, E-7, E-8, E-9, E-10, E-11, E-12, E-13
