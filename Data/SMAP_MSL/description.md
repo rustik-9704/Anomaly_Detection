@@ -31,9 +31,12 @@ Channel category D
 |---|---|---|---|---|---|---|---|---|---|----|----|----|
 |Anomaly sequences|[5250, 8508]|[4319, 8536]|[5225, 8500]|[5225, 8472]|[4800, 4850]|[4870, 4950]|[4940, 7641]|[4370, 4420]|[6250, 7405]|[4270, 4330]|[5178, 7917]|[5070, 5230]|
 |Anomaly type|point|point|point|point|point|point|point|point|point|point|point|point|
-D-1, D-2, D-3, D-4, D-5, D-6, D-7, D-8, D-9, D-11, D-12, D-13
 
-E-1, E-2, E-3, E-4, E-5, E-6, E-7, E-8, E-9, E-10, E-11, E-12, E-13
+Channel category E
+|   |E-1|E-2|E-3|E-4|E-5|E-6|E-7|E-8|E-9|E-10|E-11|E-12|E-13|
+|---|---|---|---|---|---|---|---|---|---|----|----|----|----|
+|Anomaly sequences|[5000, 5030], [5610, 6086]|[5598, 6995]|[5094, 8306]|[5450, 8261]|[5600, 5920]|[5610, 5675]|[5394, 5674]|[5400, 6022]|[5550, 5900]|[5000, 5050], [5601, 5871]|[5000, 5050], [5614, 5857]|[5610, 6141], [5000, 5050]|[5309, 5410], [5600, 5640], [6449, 6569]|
+|Anomaly type|contextual, contextual|point|point|point|point|point|point|point|point|contextual, contextual|contextual, contextual|contextual, contextual|contextual, contextual, contextual|
 
 F-1, F-2, F-3
 
