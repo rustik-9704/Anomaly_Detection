@@ -38,9 +38,17 @@ Channel category E
 |Anomaly sequences|[5000, 5030], [5610, 6086]|[5598, 6995]|[5094, 8306]|[5450, 8261]|[5600, 5920]|[5610, 5675]|[5394, 5674]|[5400, 6022]|[5550, 5900]|[5000, 5050], [5601, 5871]|[5000, 5050], [5614, 5857]|[5610, 6141], [5000, 5050]|[5309, 5410], [5600, 5640], [6449, 6569]|
 |Anomaly type|contextual, contextual|point|point|point|point|point|point|point|point|contextual, contextual|contextual, contextual|contextual, contextual|contextual, contextual, contextual|
 
-F-1, F-2, F-3
+Channel category F
+|   |F-1|F-2|F-3|
+|---|---|---|---|
+|Anomaly sequences|[5392, 5492]|[5669, 8625]|[5600, 5640]|
+|Anomaly type|point|point|contextual|
 
-G-1, G-2, G-3, G-4, G-6, G-7
+Channel category G
+|   |G-1|G-2|G-3|G-4|G-6|G-7|
+|---|---|---|---|---|---|---|
+|Anomaly sequences|[4770, 4890]|[4030, 4070]|[4200, 4250]|[4690, 4720]|[5600, 5700]|[3650, 3750], [5050, 5100], [7560, 7675]|
+|Anomaly type|contextual|point|point|point|point|contextual, point, contextual|
 
 P-1 [2146,2349],[4536,4844],[3539,3779] , P-2 (repeated twice), P-3, P-4, P-7
 
